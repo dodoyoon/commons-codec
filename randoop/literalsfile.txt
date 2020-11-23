@@ -1,0 +1,397 @@
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.BinaryDecoder
+
+LITERALS
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.DecoderException
+
+LITERALS
+int:1
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.Decoder
+
+LITERALS
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.EncoderException
+
+LITERALS
+int:1
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.StringDecoder
+
+LITERALS
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.CharEncoding
+
+LITERALS
+int:8
+int:8859
+int:16
+String:"US-ASCII"
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.BinaryEncoder
+
+LITERALS
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.StringEncoderComparator
+
+LITERALS
+int:2
+int:1
+int:0
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.Encoder
+
+LITERALS
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.StringEncoder
+
+LITERALS
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.net.Utils
+
+LITERALS
+int:16
+int:-1
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.net.RFC1522Codec
+
+LITERALS
+String:" encoded content"
+String:"=?"
+String:"?="
+int:1522
+int:2
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.net.QuotedPrintableCodec
+
+LITERALS
+int:32
+int:256
+int:33
+int:8
+String:" cannot be quoted-printable decoded"
+int:4
+int:0
+int:62
+int:9
+int:16
+String:" cannot be quoted-printable encoded"
+int:2
+int:1
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.net.QCodec
+
+LITERALS
+int:32
+int:256
+int:8
+String:" cannot be encoded using Q codec"
+int:0
+int:1522
+int:95
+String:"Q"
+String:" cannot be decoded using Q codec"
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.net.URLCodec
+
+LITERALS
+int:8
+int:256
+int:4
+int:0
+int:16
+int:2
+int:1
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.net.BCodec
+
+LITERALS
+int:8
+String:" cannot be decoded using BCodec"
+String:" cannot be encoded using BCodec"
+int:1522
+String:"B"
+int:64
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.digest.DigestUtils
+
+LITERALS
+int:8
+int:256
+int:0
+int:384
+int:5
+int:512
+int:-1
+int:1024
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.language.RefinedSoundex
+
+LITERALS
+int:1
+int:0
+String:"01360240043788015936020505"
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.language.Metaphone
+
+LITERALS
+int:4
+int:0
+int:3
+int:10
+String:"AEIOU"
+int:40
+int:2
+String:"CSPTG"
+int:1
+String:"EIY"
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.language.DoubleMetaphone
+
+LITERALS
+String:"AEIOUY"
+String:"ER"
+int:4
+int:0
+int:3
+String:"HEIM"
+int:5
+int:-1
+String:"L"
+String:"ES"
+int:00
+int:2
+int:1
+String:"GN"
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.language.Soundex
+
+LITERALS
+int:4
+String:"01230120022455012623010202"
+int:1
+int:0
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.language.Caverphone
+
+LITERALS
+String:"111111"
+int:1
+String:"1111111111"
+int:0
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.language.SoundexUtils
+
+LITERALS
+int:1
+int:0
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.binary.Base64OutputStream
+
+LITERALS
+int:1
+int:64
+int:0
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.binary.StringUtils
+
+LITERALS
+int:8
+int:8859
+int:16
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.binary.Base64
+
+LITERALS
+int:8
+int:76
+int:4
+int:0
+int:8192
+int:55
+int:5
+int:3
+int:-1
+int:2
+int:24
+int:35
+String:") than the specified maxium size of "
+int:6
+int:1
+int:64
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.binary.Hex
+
+LITERALS
+int:8
+int:4
+int:0
+int:-1
+int:16
+int:1
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.binary.Base64InputStream
+
+LITERALS
+int:0
+int:-1
+int:4096
+int:1
+int:64
+
+END CLASSLITERALS
+
+START CLASSLITERALS
+
+CLASSNAME
+org.apache.commons.codec.binary.BinaryCodec
+
+LITERALS
+int:7
+int:4
+int:0
+int:3
+int:5
+int:2
+int:6
+int:1
+
+END CLASSLITERALS
